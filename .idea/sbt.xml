@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaSbtSettings">
+    <option name="customVMPath" />
+    <option name="linkedExternalProjectsSettings">
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="A:\downloads\play-authenticate-master\play-authenticate-master\samples\java\Panda3Shoes" />
+      </SbtProjectSettings>
+    </option>
+  </component>
+</project>

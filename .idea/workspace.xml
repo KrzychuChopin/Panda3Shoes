@@ -1,0 +1,936 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="58d4db1c-8e11-49da-bdcb-7595b7c0ebdb" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/project/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="109">
+              <caret line="286" column="161" lean-forward="true" selection-start-line="286" selection-start-column="161" selection-end-line="286" selection-end-column="161" />
+              <folding>
+                <element signature="n#style#0;n#button#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#form#0;n#div#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="historyBooks.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bookCategories/historyBooks.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="802">
+              <caret line="398" column="7" selection-start-line="398" selection-start-column="7" selection-end-line="398" selection-end-column="7" />
+              <folding>
+                <element signature="n#style#0;n#button#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#5838#5845#1" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#form#0;n#div#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#10096#10102#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cookbooks.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bookCategories/cookbooks.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="802">
+              <caret line="397" column="7" selection-start-line="397" selection-start-column="7" selection-end-line="397" selection-end-column="7" />
+              <folding>
+                <element signature="n#style#0;n#button#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#5838#5845#1" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#form#0;n#div#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#10096#10102#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bedtimeReadingBooks.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bookCategories/bedtimeReadingBooks.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="802">
+              <caret line="397" column="7" selection-start-line="397" selection-start-column="7" selection-end-line="397" selection-end-column="7" />
+              <folding>
+                <element signature="n#style#0;n#button#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#5838#5845#1" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#form#0;n#div#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#15975#15981#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="autobiographies.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bookCategories/autobiographies.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3403">
+              <caret line="229" column="7" selection-start-line="229" selection-start-column="7" selection-end-line="229" selection-end-column="7" />
+              <folding>
+                <element signature="e#10096#10102#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fantasyBooks.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bookCategories/fantasyBooks.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="802">
+              <caret line="398" column="7" selection-start-line="398" selection-start-column="7" selection-end-line="398" selection-end-column="7" />
+              <folding>
+                <element signature="n#style#0;n#button#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#5838#5845#1" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#form#0;n#div#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#10096#10102#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="graphicNovels.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bookCategories/graphicNovels.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="802">
+              <caret line="398" column="7" selection-start-line="398" selection-start-column="7" selection-end-line="398" selection-end-column="7" />
+              <folding>
+                <element signature="n#style#0;n#button#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#5838#5845#1" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#form#0;n#div#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#10096#10102#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="crimeAndThrillerBooks.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bookCategories/crimeAndThrillerBooks.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="547">
+              <caret line="382" selection-start-line="382" selection-end-line="382" />
+              <folding>
+                <element signature="n#style#0;n#button#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#5838#5845#1" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#form#0;n#div#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#15974#15980#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fairytalesAndFolktales.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bookCategories/fairytalesAndFolktales.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="802">
+              <caret line="398" column="7" selection-start-line="398" selection-start-column="7" selection-end-line="398" selection-end-column="7" />
+              <folding>
+                <element signature="n#style#0;n#button#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#5838#5845#1" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#form#0;n#div#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#10096#10102#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="romanceBooks.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bookCategories/romanceBooks.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="802">
+              <caret line="398" column="7" selection-start-line="398" selection-start-column="7" selection-end-line="398" selection-end-column="7" />
+              <folding>
+                <element signature="n#style#0;n#button#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#5838#5845#1" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#form#0;n#div#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#10096#10102#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Start</find>
+      <find>Logi</find>
+      <find>Panda</find>
+      <find>5</find>
+      <find>50</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/CustomStyles.css" />
+        <option value="$PROJECT_DIR$/about.html" />
+        <option value="$PROJECT_DIR$/navigationBar/shopingCart.html" />
+        <option value="$PROJECT_DIR$/navigationBar/signIn.html" />
+        <option value="$PROJECT_DIR$/books/playFrameworkForDummies.html" />
+        <option value="$PROJECT_DIR$/books/itPosition/playFrameworkForDummies.html" />
+        <option value="$PROJECT_DIR$/bootstrap/js/popper.min.js" />
+        <option value="$PROJECT_DIR$/bootstrap/css/bootstrap-social.css" />
+        <option value="$PROJECT_DIR$/bootstrap/js/jquery.min.js" />
+        <option value="$PROJECT_DIR$/navigationBar/contact.html" />
+        <option value="$PROJECT_DIR$/navigationBar/services.html" />
+        <option value="$PROJECT_DIR$/navigationBar/about.html" />
+        <option value="$PROJECT_DIR$/bookCategories/it.html" />
+        <option value="$PROJECT_DIR$/bookCategories/yaBooks.html" />
+        <option value="$PROJECT_DIR$/bookCategories/romanceBooks.html" />
+        <option value="$PROJECT_DIR$/bookCategories/historyBooks.html" />
+        <option value="$PROJECT_DIR$/bookCategories/graphicNovels.html" />
+        <option value="$PROJECT_DIR$/bookCategories/fantasyBooks.html" />
+        <option value="$PROJECT_DIR$/bookCategories/fairytalesAndFolktales.html" />
+        <option value="$PROJECT_DIR$/bookCategories/crimeAndThrillerBooks.html" />
+        <option value="$PROJECT_DIR$/bookCategories/cookbooks.html" />
+        <option value="$PROJECT_DIR$/bookCategories/bedtimeReadingBooks.html" />
+        <option value="$PROJECT_DIR$/bookCategories/autobiographies.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/fontawesome-free-5.0.13/fontawesome-free-5.0.13/advanced-options/use-with-node-js/fontawesome-common-types/package.json" />
+      <path value="$PROJECT_DIR$/fontawesome-free-5.0.13/fontawesome-free-5.0.13/advanced-options/use-with-node-js/fontawesome-free-brands/package.json" />
+      <path value="$PROJECT_DIR$/fontawesome-free-5.0.13/fontawesome-free-5.0.13/advanced-options/use-with-node-js/fontawesome-free-regular/package.json" />
+      <path value="$PROJECT_DIR$/fontawesome-free-5.0.13/fontawesome-free-5.0.13/advanced-options/use-with-node-js/fontawesome-free-solid/package.json" />
+      <path value="$PROJECT_DIR$/fontawesome-free-5.0.13/fontawesome-free-5.0.13/advanced-options/use-with-node-js/fontawesome-free-webfonts/package.json" />
+      <path value="$PROJECT_DIR$/fontawesome-free-5.0.13/fontawesome-free-5.0.13/advanced-options/use-with-node-js/fontawesome/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="953" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Panda3Shoes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Panda3Shoes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Panda3Shoes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="A:\downloads\play-authenticate-master\play-authenticate-master\samples\java\Panda3Shoes\Images" />
+      <recent name="A:\downloads\play-authenticate-master\play-authenticate-master\samples\java\Panda3Shoes" />
+      <recent name="A:\downloads\play-authenticate-master\play-authenticate-master\samples\java\Panda3Shoes\Images\itBooksGallery" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="A:\downloads\play-authenticate-master\play-authenticate-master\samples\java\Panda3Shoes\books\itPosition" />
+      <recent name="A:\downloads\play-authenticate-master\play-authenticate-master\samples\java\Panda3Shoes\Images\itBooksGallery" />
+      <recent name="A:\downloads\play-authenticate-master\play-authenticate-master\samples\java\Panda3Shoes\Images" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Panda3Shoes/index.html" />
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="Panda3Shoes" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="panda3shoes" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="panda3shoes-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/build.sbt" value="349309992" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="2096222171" />
+        <entry key="A:\downloads\play-authenticate-master\play-authenticate-master\samples\java\Panda3Shoes" value="3057215611232" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../../../E-business-master/E-business-master" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../play-authenticate-usage" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../space-whales-master/space-whales-master" value="PREVIEW" />
+        <entry key="A:\downloads\play-authenticate-master\play-authenticate-master\samples\java\Panda3Shoes" value="RE_IMPORT" />
+        <entry key="$USER_HOME$/Desktop/E-business" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/E-business-master (1)/E-business-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/space-whales-master/space-whales-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/OneDrive/Dokumenty/GitHub/E-business" value="PREVIEW" />
+        <entry key="$USER_HOME$/bookstore" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="58d4db1c-8e11-49da-bdcb-7595b7c0ebdb" name="Default" comment="" />
+      <created>1528607803192</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1528607803192</updated>
+      <workItem from="1528607809377" duration="20281000" />
+      <workItem from="1528668795030" duration="22734000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="43015000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="sbt" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17537314" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="7" />
+      <window_info anchor="bottom" id="Gradle View" order="9" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.14270152" />
+      <window_info anchor="right" id="Maven-2 Build" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Build" order="12" visible="true" weight="0.10784314" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="bottom" id="Build" order="12" visible="true" weight="0.10784314" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="right" id="sbt" order="10" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="7" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="bottom" id="Gradle View" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="right" id="Maven-2 Build" order="6" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17537314" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.14270152" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1496">
+          <caret line="88" column="67" selection-start-line="88" selection-start-column="67" selection-end-line="88" selection-end-column="67" />
+          <folding>
+            <element signature="n#style#0;n#button#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#form#0;n#div#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookCategories/historyBooks.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+          <folding>
+            <element signature="e#10096#10102#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookCategories/autobiographies.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+          <folding>
+            <element signature="e#10098#10104#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/navigationBar/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/books/itPosition/playFrameworkForDummies.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="37" column="10" selection-start-line="37" selection-start-column="10" selection-end-line="37" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookCategories/fantasyBooks.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+          <folding>
+            <element signature="e#10096#10102#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookCategories/graphicNovels.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+          <folding>
+            <element signature="e#10096#10102#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookCategories/fairytalesAndFolktales.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+          <folding>
+            <element signature="e#10096#10102#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CustomStyles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookCategories/it.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="31" lean-forward="true" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+          <folding>
+            <element signature="n#style#0;n#button#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#5808#5815#1" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#form#0;n#div#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#17693#17699#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.html" />
+    <entry file="file://$PROJECT_DIR$/navigationBar/shopingCart.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/navigationBar/signIn.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/meta.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/books/itPosition/playFrameworkForDummies.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="87" column="253" selection-start-line="87" selection-start-column="12" selection-end-line="87" selection-end-column="253" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap/js/popper.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CustomStyles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap/css/bootstrap-social.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2482">
+          <caret line="146" column="54" selection-start-line="146" selection-start-column="54" selection-end-line="146" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fontawesome-free-5.0.13/fontawesome-free-5.0.13/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap/js/jquery.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/navigationBar/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="623">
+          <caret line="282" column="7" lean-forward="true" selection-end-line="282" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#button#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#5808#5815#1" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#form#0;n#div#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#10021#10027#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/navigationBar/services.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="282" column="7" selection-start-line="282" selection-start-column="7" selection-end-line="282" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#button#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#5838#5845#1" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#form#0;n#div#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#10467#10473#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/navigationBar/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4794">
+          <caret line="282" column="7" selection-start-line="282" selection-start-column="7" selection-end-line="282" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#button#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#5838#5845#1" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#form#0;n#div#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#10467#10473#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookCategories/it.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="403" selection-start-line="403" selection-end-line="418" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#button#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#5808#5815#1" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#form#0;n#div#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#17693#17699#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookCategories/yaBooks.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="802">
+          <caret line="397" column="7" selection-start-line="397" selection-start-column="7" selection-end-line="397" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#button#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#5838#5845#1" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#form#0;n#div#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#10096#10102#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookCategories/romanceBooks.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="802">
+          <caret line="398" column="7" selection-start-line="398" selection-start-column="7" selection-end-line="398" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#button#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#5838#5845#1" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#form#0;n#div#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#10096#10102#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookCategories/historyBooks.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="802">
+          <caret line="398" column="7" selection-start-line="398" selection-start-column="7" selection-end-line="398" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#button#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#5838#5845#1" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#form#0;n#div#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#10096#10102#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookCategories/graphicNovels.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="802">
+          <caret line="398" column="7" selection-start-line="398" selection-start-column="7" selection-end-line="398" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#button#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#5838#5845#1" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#form#0;n#div#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#10096#10102#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookCategories/fantasyBooks.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="802">
+          <caret line="398" column="7" selection-start-line="398" selection-start-column="7" selection-end-line="398" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#button#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#5838#5845#1" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#form#0;n#div#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#10096#10102#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookCategories/fairytalesAndFolktales.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="802">
+          <caret line="398" column="7" selection-start-line="398" selection-start-column="7" selection-end-line="398" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#button#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#5838#5845#1" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#form#0;n#div#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#10096#10102#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookCategories/crimeAndThrillerBooks.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="547">
+          <caret line="382" selection-start-line="382" selection-end-line="382" />
+          <folding>
+            <element signature="n#style#0;n#button#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#5838#5845#1" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#form#0;n#div#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#15974#15980#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookCategories/cookbooks.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="802">
+          <caret line="397" column="7" selection-start-line="397" selection-start-column="7" selection-end-line="397" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#button#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#5838#5845#1" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#form#0;n#div#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#10096#10102#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookCategories/bedtimeReadingBooks.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="802">
+          <caret line="397" column="7" selection-start-line="397" selection-start-column="7" selection-end-line="397" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#button#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#5838#5845#1" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#form#0;n#div#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#15975#15981#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookCategories/autobiographies.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3403">
+          <caret line="229" column="7" selection-start-line="229" selection-start-column="7" selection-end-line="229" selection-end-column="7" />
+          <folding>
+            <element signature="e#10096#10102#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="286" column="161" lean-forward="true" selection-start-line="286" selection-start-column="161" selection-end-line="286" selection-end-column="161" />
+          <folding>
+            <element signature="n#style#0;n#button#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#form#0;n#div#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>panda3shoes</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>sbt: org.scala-lang:scala-library:2.12.6:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
